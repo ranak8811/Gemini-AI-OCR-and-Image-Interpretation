@@ -44,11 +44,9 @@ Follow these steps to set up the project:
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/Gemini-AI-OCR.git
-    cd Gemini-AI-OCR
+    git clone https://github.com/ranak8811/Gemini-AI-OCR-and-Image-Interpretation.git
+    cd Gemini-AI-OCR-and-Image-Interpretation
     ```
-
-    _(Note: Replace `https://github.com/your-username/Gemini-AI-OCR.git` with the actual URL of your repository once it's pushed to GitHub.)_
 
 2.  **Create a Conda environment (recommended):**
 
