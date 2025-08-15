@@ -1,0 +1,341 @@
+Question_Option,Answer
+thiokinase: Lactate dehydrogenase,FALSE
+thiokinase: lactase,FALSE
+thiokinase: esterase,FALSE
+thiokinase: aminopeptidase,FALSE
+thiokinase: ALT,FALSE
+"Co-enzymes derived from vit-B complexes are-
+respiration: coenzyme Q",TRUE
+"Co-enzymes derived from vit-B complexes are-
+respiration: thiamin pyrophosphate",TRUE
+"Co-enzymes derived from vit-B complexes are-
+respiration: FAD",TRUE
+"Co-enzymes derived from vit-B complexes are-
+respiration: biotin",FALSE
+"Co-enzymes derived from vit-B complexes are-
+respiration: coenzyme A",FALSE
+"Co-enzymes derived from vit-B complexes are-
+respiration: sugar phosphate",FALSE
+"Co-enzymes derived from vit-B complexes are-
+respiration: NADP",TRUE
+"Co-enzymes derived from vit-B complexes are-
+respiration: lipoic acid",FALSE
+"Co-enzymes derived from vit-B complexes are-
+respiration: cobamide",FALSE
+"Co-enzymes derived from vit-B complexes are-
+respiration: cobalamine coenzyme",TRUE
+Enzymes with their clinical significance: myocardium,TRUE
+Enzymes with their clinical significance: brain,TRUE
+Enzymes with their clinical significance: ALT is highly specific for liver,TRUE
+Enzymes with their clinical significance: breast,FALSE
+Enzymes with their clinical significance: CPK-MM is highly specific for muscle,TRUE
+Enzymes with their clinical significance: muscle,TRUE
+Enzymes with their clinical significance: AST is a heart disease marker,TRUE
+Enzymes with their clinical significance: liver,FALSE
+Enzymes with their clinical significance: Aldolase is increased in brain tumor,FALSE
+Coenzymes: ALP is increased in prostate cancer,FALSE
+Coenzymes: are inorganic molecules,FALSE
+Enzyme action is affected by: are often derived from vitamins,TRUE
+Enzyme action is affected by: Allosteric substances,TRUE
+Enzyme action is affected by: may be regarded as 2nd messenger,FALSE
+Enzyme action is affected by: Pressure,FALSE
+Enzyme action is affected by: have no role in group transfer reaction,FALSE
+Enzyme action is affected by: Electrolytes,FALSE
+Enzyme action is affected by: are non protein substances,TRUE
+Enzyme action is affected by: pH,TRUE
+Prosthetic group of an enzyme: Enzyme concentration,TRUE
+Prosthetic group of an enzyme: FMN,TRUE
+Characteristics of isoenzymes are as follows: Biotin,TRUE
+Characteristics of isoenzymes are as follows: NAD,TRUE
+Characteristics of isoenzymes are as follows: Has quaternary structure,TRUE
+Characteristics of isoenzymes are as follows: Thiamin,TRUE
+Characteristics of isoenzymes are as follows: Has different molecular forms with different e. Pyridoxal phosphate,TRUE
+Km of an enzyme: Has diagnostic value in disease process,TRUE
+Km of an enzyme: Is substrate concentration,TRUE
+Km of an enzyme: Can be used to treat disease,FALSE
+Km of an enzyme: Is enzyme concentration,FALSE
+Km of an enzyme: Usually are non-function plasma enzymes,FALSE
+Km of an enzyme: Is product concentration,FALSE
+Enzyme studied in myocardial infarction: Determines affinity with substrate,TRUE
+Enzyme studied in myocardial infarction: CK,FALSE
+Enzyme studied in myocardial infarction: Is a constant value,TRUE
+Enzyme studied in myocardial infarction: CK-MB,TRUE
+The following are the plasma non functional: GT,FALSE
+The following are the plasma non functional: ALT,FALSE
+The following are the plasma non functional: AST,FALSE
+The following are the plasma non functional: LDH,TRUE
+The following are the plasma non functional: ALT,FALSE
+Regarding isoenzyme: Lipoprotein lipase,TRUE
+Regarding isoenzyme: many are tissue specific,TRUE
+Regarding isoenzyme: LDH,FALSE
+Regarding isoenzyme: are differ in physico-chemical properties,TRUE
+Regarding isoenzyme: LCAT,FALSE
+Regarding isoenzyme: are synthesized from different genes,TRUE
+The following are coenzymes: LDH has eight distinct forms,FALSE
+The following are coenzymes: hexokinase,FALSE
+The following are coenzymes: LDH 5 is increased in myocardial infarction,FALSE
+The following are coenzymes: pyridoxal phosphate,TRUE
+Coenzymes are: thiamin pyrophosphate (T a. non-protein organic molecule,TRUE
+Coenzymes are: catalase,FALSE
+Coenzymes are: dialyzable,TRUE
+Coenzymes are: peroxidase,FALSE
+Coenzymes are: heat labile,FALSE
+Plasma non functional enzymes are: prosthetic groups of enzymes,TRUE
+Plasma non functional enzymes are: AST,FALSE
+Plasma non functional enzymes are: catalyze a specific reaction,FALSE
+Plasma non functional enzymes are: Lipoprotein lipase,FALSE
+Features of LDH are that: it is an intracellular enzyme,TRUE
+Features of LDH are that: it has got three iso-enzymes,FALSE
+Features of LDH are that: it is a cardiac marker,TRUE
+Features of LDH are that: it is an oligomeric protein,FALSE
+Features of LDH are that: it is not denaturated by heat,FALSE
+"Km of an enzyme-
+is the substrate concentration: b. is constant",TRUE
+"Km of an enzyme-
+is the substrate concentration: is the half maximum velocity",FALSE
+"Km of an enzyme-
+is the substrate concentration: depends upon concentration of product",FALSE
+Features of LDH are that: it is an intracellular enzyme,TRUE
+Features of LDH are that: it has got five isozymes,TRUE
+Features of LDH are that: it is a cardiac marker,TRUE
+Features of LDH are that: it is not denatured by heat,FALSE
+Features of LDH are that: it is an oligomeric protein,FALSE
+Coenzymes are: heat labile,FALSE
+Coenzymes are: inorganic substance,FALSE
+Coenzymes are: non-protein in nature,TRUE
+Coenzymes are: all vitamin derivatives,FALSE
+Coenzymes are: dialyzable,TRUE
+Properties of enzymes are that they: are crystalloids,FALSE
+Properties of enzymes are that they: are heat labile,TRUE
+Properties of enzymes are that they: act as catalyst,TRUE
+Properties of enzymes are that they: always require coenzyme for action,FALSE
+Properties of enzymes are that they: are protein in nature,TRUE
+Digestion of starch by amylase yields: Pepsin,TRUE
+Digestion of starch by amylase yields: Trypsin,TRUE
+Digestion of starch by amylase yields: Fructose,FALSE
+Digestion of starch by amylase yields: Esterase,FALSE
+Digestion of starch by amylase yields: Glucose,FALSE
+"Regarding protein digestion:
+с.
+Maltose: Is starts in mouth and ends in enterocytes",FALSE
+"Regarding protein digestion:
+с.
+Maltose: Matotriose",TRUE
+"Regarding protein digestion:
+с.
+Maltose: Zymogens helps in protein digestion",TRUE
+"Regarding protein digestion:
+с.
+Maltose: a-limit dextrin",TRUE
+In the stomach: pH value is around 6-7,FALSE
+In the stomach: Gastric HCl helps in protein denaturation,FALSE
+In the stomach: pepsinogen is converted to pepsin by HCl e. End product is amino acid,TRUE
+"Bile:
+ferric iron is reduced to ferrous form: Contains digestive enzyme",FALSE
+"Bile:
+ferric iron is reduced to ferrous form: gastrin stimulates acid secretion",TRUE
+"Bile:
+ferric iron is reduced to ferrous form: Contains unconjugated bilirubin",FALSE
+"Bile:
+ferric iron is reduced to ferrous form: protein is completely broken down",FALSE
+Gastrin: Pigments does not contain iron,FALSE
+Gastrin: Is secreted by oxyntic cells,FALSE
+Gastrin: is needed to excrete bilirubin,TRUE
+Gastrin: Is secreted by pyloric gland,TRUE
+"Regarding absorption of digestive end
+с.
+Secretion is reduced by amino acid
+products: Stimulate pepsin secretion",TRUE
+"Regarding absorption of digestive end
+с.
+Secretion is reduced by amino acid
+products: Glucose absorption in the intestine is not e. Has trophic action",FALSE
+Regarding gastric juice –: Protein is absorbed in the form of peptides a. pH is 6.7,FALSE
+Regarding gastric juice –: Inactivates the salivary amylase,TRUE
+Regarding gastric juice –: Liver is the main organ for absorptions,FALSE
+Regarding gastric juice –: Is essential for absorption of vitamin B12,TRUE
+Regarding gastric juice –: Glucose absorption is a energy dependent d. Is essential for protein digestion,TRUE
+Regarding gastric juice –: process in luminal side,TRUE
+Regarding gastric juice –: Inhibited by vagal stimulation,FALSE
+"Mixed micelles consist of –
+duodenum: Fatty acid",TRUE
+Enzymes present in succus entericus: Apo B-100,FALSE
+Enzymes present in succus entericus: Apo B-48,FALSE
+Enzymes present in succus entericus: Alpha amylase,FALSE
+Enzymes present in succus entericus: Lecithin,FALSE
+Enzymes present in succus entericus: Colipase,FALSE
+Enzymes present in succus entericus: Cholesterol,TRUE
+Regarding digestive enzyme: Isomalase,TRUE
+Regarding digestive enzyme: All are hydrolases,TRUE
+Regarding digestive enzyme: a-limit dextrin,TRUE
+Regarding digestive enzyme: Pepsin is a precursor of pepsinogen,FALSE
+Following are examples of endopeptidase: Disaccharides are present in pancreatic juice (RU-17M),TRUE
+Following are examples of endopeptidase: trypsin,TRUE
+Following are examples of endopeptidase: Trypsin acts well in alkaline media,TRUE
+Following are examples of endopeptidase: pepsin,FALSE
+Following are examples of endopeptidase: Intrinsic factor of Castle is present in saliva c. carboxypeptidase,FALSE
+Following are examples of endopeptidase: aminopeptidase,FALSE
+Bile salts: chymotrypsin,TRUE
+Bile salts: Are necessary for fat digestion,TRUE
+Stomach secretes following substances: Are derived from cholesterol,TRUE
+Stomach secretes following substances: Are component of succus entericus,FALSE
+Stomach secretes following substances: intrinsic factor,TRUE
+Stomach secretes following substances: Reduce surface tension of fat globule,TRUE
+Stomach secretes following substances: amylase,FALSE
+Stomach secretes following substances: inhibit bile secretion by the liver,FALSE
+Stomach secretes following substances: mucus,TRUE
+Proteolytic enzymes include: hydrochloric acid,TRUE
+Proteolytic enzymes include: Amylase,FALSE
+Proteolytic enzymes include: secretine,FALSE
+Proteolytic enzymes include: Lipase,FALSE
+"Saliva:
+254
+arif's representation on MEDICAL BIOCHEMISTRY: gives taste sensation",TRUE
+"Saliva:
+254
+arif's representation on MEDICAL BIOCHEMISTRY: contains protein antibody",TRUE
+"Saliva:
+254
+arif's representation on MEDICAL BIOCHEMISTRY: Trypsin",TRUE
+"Saliva:
+254
+arif's representation on MEDICAL BIOCHEMISTRY: can digest protein",FALSE
+"Saliva:
+254
+arif's representation on MEDICAL BIOCHEMISTRY: Esterase",FALSE
+"Saliva:
+254
+arif's representation on MEDICAL BIOCHEMISTRY: helps deglutition",TRUE
+Pepsin: Is the active form of pepsinogen,TRUE
+Pepsin: contains conjugated bilirubin,TRUE
+Pepsin: Is secreted from oxyntic cells,FALSE
+Pepsin: turns more acid during storage in gall c. Can digest 80% of dietary protein,TRUE
+Pepsin: Activity is maximum at pH <1,FALSE
+Pepsin: contains salts which make cholesterol more e. Can digest the collagen fibers of protein,TRUE
+Saliva can digest: reabsorption occurs in the upper part is of a. Protein into peptide,FALSE
+Saliva can digest: Starch into maltose,TRUE
+Gastric juice contains: Fat into fatty acid and diacylglycerol,FALSE
+Gastric juice contains: hydrochloric acid,TRUE
+Gastric juice contains: Sucrose into glucose and fructose,TRUE
+Gastric juice contains: alpha amylase,FALSE
+Gastric juice contains: Lactose into glucose and galactose,TRUE
+Gastric juice contains: lipase,TRUE
+Regarding secretory cells in stomach: mucus,TRUE
+Regarding secretory cells in stomach: pepsin,FALSE
+Regarding secretory cells in stomach: Parietal cells secrete pepsinogen,FALSE
+Following enzymes are present in succus: Peptic cells secrete HCl,FALSE
+Following enzymes are present in succus: G-cells secrete gastrin,TRUE
+Following enzymes are present in succus: sucrase,TRUE
+Following enzymes are present in succus: Mucus cells secerete mucin,TRUE
+Following enzymes are present in succus: dipeptidase,TRUE
+Following enzymes are present in succus: S-cells secrete secretin,TRUE
+Following enzymes are present in succus: maltase,TRUE
+Chemical stimuli for gastric HCl secretion: tripsin,FALSE
+Chemical stimuli for gastric HCl secretion: amylase,FALSE
+Chemical stimuli for gastric HCl secretion: Somatostatin,FALSE
+Testes for assessing synthetic function of liver: Histamine,TRUE
+Testes for assessing synthetic function of liver: PGE2,FALSE
+Testes for assessing synthetic function of liver: prothrombine time,TRUE
+Testes for assessing synthetic function of liver: Acetylcholine,TRUE
+Testes for assessing synthetic function of liver: serum bilirubin,FALSE
+Testes for assessing synthetic function of liver: Gastrin,TRUE
+Testes for assessing synthetic function of liver: serum albumin,TRUE
+Absorption of lipid to blood: serum ALT,FALSE
+Absorption of lipid to blood: Requires to form micelle,TRUE
+Absorption of lipid to blood: serum globulin,TRUE
+Absorption of lipid to blood: Require bile acid,TRUE
+Gastrin: Require further intracellular hydrolysis,FALSE
+Gastrin: Is secreted by oxyntic gland,FALSE
+Gastrin: Follows enterohepatic circulation,FALSE
+Gastrin: Is secreted by pyloric gland,TRUE
+Gastrin: Requires further intracellular rearrangement c. Secretion is reduced by amino acid,TRUE
+Gastrin: Stimulate HCL & pepsin secretion,TRUE
+End products of carbohydrate digestion are: Has trophic action,FALSE
+End products of CHO digestion are: Lactose,FALSE
+End products of CHO digestion are: Maltose,FALSE
+End products of CHO digestion are: Fructose,TRUE
+End products of CHO digestion are: Amylase,FALSE
+End products of CHO digestion are: Galactose,TRUE
+End products of CHO digestion are: Glucose,TRUE
+End products of CHO digestion are: Sucrose,FALSE
+End products of CHO digestion are: Fructose,TRUE
+End products of CHO digestion are: Glucose,TRUE
+Proteolytic enzymes include: Maltose,FALSE
+Proteolytic enzymes include: Amylase,FALSE
+The absorption of glucose in the digestive: Lipase,FALSE
+The absorption of glucose in the digestive: Pepsin,TRUE
+The absorption of glucose in the digestive: Occurs in the small intestine,TRUE
+The absorption of glucose in the digestive: Is energy requiring process,TRUE
+The absorption of glucose in the digestive: Is stimulated by the hormone glucagon,FALSE
+The absorption of glucose in the digestive: Adrenaline,FALSE
+The absorption of glucose in the digestive: Occurs more rapidly than other с. Atrial natriuretic peptide,FALSE
+Gastrin: Impairs in diabetes mellitus,FALSE
+Gastrin: Is secreted by oxyntic cell,FALSE
+Synthetic function of liver are –: Is secreted by pyloric gland,TRUE
+Synthetic function of liver are –: Prothrombin time,TRUE
+Synthetic function of liver are –: Secretion is reduced by amino acid,TRUE
+Synthetic function of liver are –: Serum LDH,FALSE
+Synthetic function of liver are –: Stimulate pepsin secretion,TRUE
+Synthetic function of liver are –: Serum albumin,TRUE
+Synthetic function of liver are –: Is a steroid hormone,FALSE
+Synthetic function of liver are –: Serum bilirubin,FALSE
+Local hormones of GIT: Serum globulin,FALSE
+Local hormones of GIT: Secretin,TRUE
+The absorption of glucose in the digestive: Glucagon,FALSE
+The absorption of glucose in the digestive: Prostaglandin,FALSE
+The absorption of glucose in the digestive: Is totally regulated by hormone,FALSE
+The absorption of glucose in the digestive: Enterokinase,FALSE
+The absorption of glucose in the digestive: Is an energy depending process,TRUE
+The absorption of glucose in the digestive: Motilin,TRUE
+The absorption of glucose in the digestive: Is impaired in diabetes mellitus,FALSE
+Disaccharidases: Starts from lower part of stomach,FALSE
+Disaccharidases: Are pancreatic enzyme,FALSE
+Disaccharidases: Occurs against concentration gradient,TRUE
+Disaccharidases: Are hydrolase enzyme,TRUE
+Liver is the principal site for: Deficiency leads to lactose intolerance,TRUE
+Liver is the principal site for: Synthesis of plasma albumin,TRUE
+Liver is the principal site for: Are starch splitting enzyme,FALSE
+Liver is the principal site for: Synthesis of plasma globulin,FALSE
+"Liver is the principal site for: Are maltase, sucrase and amylase",FALSE
+Liver is the principal site for: Storage of vit-B12 & iron,TRUE
+Products of lipid digestion are: Storage of ascorbic acid,FALSE
+Products of lipid digestion are: Monoacylglycerol,TRUE
+Products of lipid digestion are: Excretion of bile salt,TRUE
+Products of lipid digestion are: Cholesterol,TRUE
+Substances absorbed from terminal ileum: Fatty acid,TRUE
+Substances absorbed from terminal ileum: Lecithin,FALSE
+Substances absorbed from terminal ileum: Cholesterol,FALSE
+Substances absorbed from terminal ileum: Cholesteryl ester,FALSE
+Substances absorbed from terminal ileum: Vit-B12,TRUE
+HCl helps in protein digestion by following: Folic acid,FALSE
+HCl helps in protein digestion by following: Bile salts,TRUE
+HCl helps in protein digestion by following: Activates pepsinogen to pepsin,TRUE
+HCl helps in protein digestion by following: Electrolyte,FALSE
+HCl helps in protein digestion by following: Remove amino acid from protein,FALSE
+Regarding digestive enzymes: Denature protein,TRUE
+Regarding digestive enzymes: All are hydrolases,TRUE
+Regarding digestive enzymes: Ensure optimum pH for pepsin activity,TRUE
+Regarding digestive enzymes: Pepsin needs alkaline media for action,FALSE
+Regarding digestive enzymes: Hydrolyze peptide proteins,FALSE
+Regarding digestive enzymes: Salivary amylase acts on protein,FALSE
+Endopeptidase include: Trypsin remains in ecbolic secretion of a. trypsin,TRUE
+Endopeptidase include: chymotrypsin,TRUE
+Endopeptidase include: Lipolytic enzyme is bile,TRUE
+Endopeptidase include: carboxypeptidase,FALSE
+Regarding digestive enzymes: aminopeptidaese,FALSE
+Regarding digestive enzymes: All are hydrolases,TRUE
+Regarding digestive enzymes: pepsin,TRUE
+Regarding digestive enzymes: Pepsin needs alkaline media for action,FALSE
+Gastric juice helps in: Salivary amylase acts on protein,FALSE
+Gastric juice helps in: digestion of starch,FALSE
+Gastric juice helps in: Trypsin remains in ecbolic secretion of b. absorption of vit-B12,TRUE
+Gastric juice helps in: absorption of folic acid,FALSE
+Gastric juice helps in: Lipolytic enzyme is bile,TRUE
+Gastric juice helps in: digestion of protein,TRUE
+The hormones which control gastrointestinal: digestion of butter fat,TRUE
+Substances absorbed from terminal are: Gastrin,TRUE
+Substances absorbed from terminal are: amino acid,TRUE
+Substances absorbed from terminal are: Secretin,TRUE
+Substances absorbed from terminal are: glucose,TRUE
+Substances absorbed from terminal are: Gastric inhibitory peptide,TRUE
+Substances absorbed from terminal are: bile salt,FALSE
